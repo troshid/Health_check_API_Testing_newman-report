@@ -1,0 +1,2 @@
+newman run Taspia_Roshid_01799250534.postman_collection.json -e Taspia_Roshid_01799250534.postman_environment.json -r cli,htmlextra
+
